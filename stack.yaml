@@ -7,6 +7,8 @@ extra-deps:
   - amazonka-sts-1.6.1@sha256:224759e5e45234064864a66b504c9c300028c50939184f533c004dea351156b1,3190
   - git: https://github.com/jgm/zip-archive.git
     commit: c3c9914ac8cb54bf1b2219b54c5af9e3037d6300 # tag "0.4.2"
+  - katip-0.8.3.0@sha256:98e6cf398589d59c545efa7f73907eee8b5bee91b8851b888c2d76ff9a364c27,4177
+  - unliftio-core-0.1.2.0@sha256:b0a7652ffce2284a6cebe05c99eb60573a8fb6631163f34b0b30a80b4a78cb23,1081
 
 flags: {}
 
